@@ -105,14 +105,7 @@ JSX code is the _return_ value of a function, `render()`. This function is
 contained within a `class`:
 
 ```js
-class App extends Component {
-  render() {
-
-    return (
-      // JSX goes here!
-    )
-  }
-}
+c
 ```
 
 
